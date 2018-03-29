@@ -51,5 +51,5 @@ Install
 Credits
 -------
 
-Created by [Kévin Dunglas](https://dunglas.fr). Commercial support available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
+Created by [Soufiane Aqajjef].
 # api-platform-2.2.4-fos-user-jwt
